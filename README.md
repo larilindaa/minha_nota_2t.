@@ -1,2 +1,2 @@
 # minha_nota_2t.
-LARISSA MEN, N18, 1F
+LARISSA MEN, N-18, 1F
