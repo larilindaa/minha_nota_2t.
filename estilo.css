@@ -16,7 +16,7 @@ h1 {
 }
 .caixa2 {
    position: absolute;
-   background: yellow;
+   background: rgb(72, 73, 122);
    width: 200px;
    height: 200px;
    color: #cd7b7b;
@@ -28,7 +28,7 @@ h1 {
   position: absolute;
   width: 100%;
   height: 45px;
-  background: rgb(82, 23, 122);
+  background: rgb(230, 14, 219);
   top: 0;
   left: 0;
 }
@@ -49,7 +49,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  color: yellow;
+  color: rgb(89, 36, 139);
   background: violet;
 }
 #image {
@@ -57,12 +57,12 @@ li a:hover {
 }
 .boxImage {
    display: flex;
-   justify-content: center;
+   justify-content: c;
    position: absolute;
-   width: 100%;
-   height: 200px;
+   width: 90%;
+   height:100px;
    background: rgb(107, 56, 106);
-   top: 50px;
+   top: 80px;
    left: 0;
    margin: 20px;
    border-color: blue;
@@ -97,4 +97,5 @@ li a:hover {
   top: 0;
   right: 0;
   z-index: 999;
+  position: absolute;
 }
